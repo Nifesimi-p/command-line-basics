@@ -42,9 +42,9 @@ git push origin main
  ### Screenshots
  
 
- ![image1](./img1.PNG)
- ![image2](./img2.PNG)
- ![image3](./img3.PNG)
- ![image4](./img4.PNG)
+ ![image1](./img1.png)
+ ![image2](./img2.png)
+ ![image3](./img3.png)
+ ![image4](./img4.png)
 
 
